@@ -1,4 +1,4 @@
-DEFAULT_GEMFILE="$HOME/post-install.d/$RUBY/default-gems"
+DEFAULT_GEMFILE="$HOME/.chruby/Gemfile.default"
 
 # Override this ruby-install hook, but run default post-install
 # hooks for this Ruby prior to our override.
